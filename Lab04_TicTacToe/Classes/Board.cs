@@ -18,9 +18,9 @@ namespace Lab04_TicTacToe.Classes
 
 
 		public void DisplayBoard()
-		{
-			
+		{			
 			//TODO: Output the board to the console
+
 		
 		}
 	}
