@@ -13,3 +13,4 @@ This game checks for a winner after each turn. It is possible to tie/draw if no 
 
 ## Solution
 
+![Lab04-TicTacToe-Screencapture](https://github.com/ChristinaGislason/Lab04-Classes-Objects/blob/master/Lab04-TicTacToe-Screencapture.JPG)
