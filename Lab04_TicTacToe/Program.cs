@@ -27,7 +27,7 @@ namespace Lab04_TicTacToe
             Player winner = game.Play();
 
             // Output the winner
-            Console.WriteLine($"The winner is {winner}!");
+            Console.WriteLine($"The winner is {winner.Name}!");
         }
     }
 }

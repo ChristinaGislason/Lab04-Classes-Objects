@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab04_TicTacToe.Classes
 {
-    class Player
+    public class Player
     {
 		public string Name { get; set; }
 		/// <summary>
@@ -31,7 +31,6 @@ namespace Lab04_TicTacToe.Classes
 
 		}
 
-
 		public static Position PositionForNumber(int position)
 		{
 			switch (position)
@@ -49,7 +48,6 @@ namespace Lab04_TicTacToe.Classes
 				default: return null;
 			}
 		}
-
 	
 		public void TakeTurn(Board board)
 		{
